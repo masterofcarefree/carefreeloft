@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.46451721.css",
-    "main.js": "/your-repo-name/static/js/main.79c425d2.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.46451721.css.map": "/your-repo-name/static/css/main.46451721.css.map",
-    "main.79c425d2.js.map": "/your-repo-name/static/js/main.79c425d2.js.map"
+    "main.css": "/carefreeloft/static/css/main.46451721.css",
+    "main.js": "/carefreeloft/static/js/main.df0397a2.js",
+    "index.html": "/carefreeloft/index.html",
+    "main.46451721.css.map": "/carefreeloft/static/css/main.46451721.css.map",
+    "main.df0397a2.js.map": "/carefreeloft/static/js/main.df0397a2.js.map"
   },
   "entrypoints": [
     "static/css/main.46451721.css",
-    "static/js/main.79c425d2.js"
+    "static/js/main.df0397a2.js"
   ]
 }
